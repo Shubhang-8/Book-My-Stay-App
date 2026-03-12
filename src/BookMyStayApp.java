@@ -9,6 +9,6 @@ public class BookMyStayApp {
         System.out.println(" Version: 1.0 ");
         System.out.println("=================================");
         System.out.println("Your trusted hotel booking platform!");
-
+        System.out.println("UC1 Feature Added");
     }
 }
